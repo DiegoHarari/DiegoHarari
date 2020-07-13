@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I've always been passionate about technology and i've decided to make a turn in my career and start studying to be a developer. Since then i never stop studying and i always try to be in up to date.
+I've always been passionate about technology and i've decided to make a turn in my career and start studying to be a developer. Since then i never stop studying and i always try to be in up to date. 
+I currently work as a fron end devloper for Endava, already worked with react and react native and the whole set of tools, such as : redux, nextjs, contect, hooks.
 
 Some of the core-technologies i work with:
 
