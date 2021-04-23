@@ -9,9 +9,9 @@ Some of the core-technologies i work with:
 . Sass/Styled Components
 . React Native
 . React/Redux/Typescript
-. Testing with Mocha&Chai/Jest
+. Testing with Jest And RTL
 . Node JS/Express
-. Mysql
+. GraphQL
 
 - 🔭 I’m currently working on Next Js for a US company
 - 🌱 I’m currently learning NextJs, Mongo Db and Node
