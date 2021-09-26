@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I currently work as a front end developer for Bloq, already worked with react and react native and the whole set of tools, such as : redux, nextjs, context, hooks.
+I currently work as a mobile developer with React Native, also i  worked with react and and the whole set of tools, such as : redux, nextjs, context, hooks.
 
 Some of the core-technologies i work with:
 
@@ -13,8 +13,7 @@ Some of the core-technologies i work with:
 . Node JS/Express
 . GraphQL
 
-- 🔭 I’m currently working on Next Js for a US company
-- 🌱 I’m currently learning NextJs, Mongo Db and Node
+
 - 👯 I’m looking to collaborate on React and React Native Projects
 - 🤔 I’m looking for help with Node
 - 💬 Ask me about React!
