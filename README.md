@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-I currently work as a mobile and web developer with React Native, also i  worked with react and and the whole set of tools, such as : redux, nextjs, context, hooks.
-In 2022 i've started doing a bootcamp in the Uk about blockchain+solidity+ethereum
+I currently work as a mobile and web developer with React Native, also i  worked with React and the whole set of tools, such as : redux, nextjs, context, hooks.
+In 2022 i've finished a bootcamp in the Uk about blockchain+solidity+ethereum
 
 Some of the core-technologies i work with:
 
@@ -17,7 +17,6 @@ Some of the core-technologies i work with:
 
 
 - 👯 I’m looking to collaborate on React/React Native & Solidity Projects
-- 🤔 I’m looking for help with Node
 - 💬 Ask me about React!
 - 📫 How to reach me: diehara@gmail.com and https://www.linkedin.com/in/diego-harari/
 - 😄 Pronouns: ...
