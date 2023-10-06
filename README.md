@@ -1,19 +1,24 @@
 ### Hi there 👋
 
 
-I currently work as a mobile and web developer with React Native, also i  worked with React and the whole set of tools, such as : redux, nextjs, context, hooks.
-In 2022 i've finished a bootcamp in the Uk about blockchain+solidity+ethereum
+Dedicated technology enthusiast with an insatiable curiosity and an unwavering commitment to ongoing growth and development.
 
-Some of the core-technologies i work with:
+Frontend Expertise:
 
-. HTML, CSS, Javascript(ECMA 6).
-. Sass/Styled Components
-. React Native
-. React/Redux/Typescript
-. Testing with Jest And RTL
-. Node JS/Express
-. GraphQL
-. Solidity
+🌐 HTML/CSS/JavaScript (ECMA 6)
+🎨 Sass/Styled Components
+🚀 React/Native
+🔷 TypeScript
+🚀 Next.js
+🔄 Redux
+
+Backend Proficiency:
+
+🖥️ Node.js/Express
+🌐 GraphQL
+📦 MongoDB
+
+I am passionate about technology and thrive on continuous learning and innovation, always eager to explore new frontiers in the world of web development. My skills span a wide range of frontend and backend technologies, ensuring I am well-equipped to tackle any challenge that comes my way. Let's connect and explore the possibilities of collaboration in the ever-evolving tech landscape.
 
 
 - 👯 I’m looking to collaborate on React/React Native & Solidity Projects
