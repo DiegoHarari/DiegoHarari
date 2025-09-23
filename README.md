@@ -18,12 +18,27 @@ Backend Proficiency:
 🌐 GraphQL
 📦 MongoDB
 
-I am passionate about technology and thrive on continuous learning and innovation, always eager to explore new frontiers in the world of web development. My skills span a wide range of frontend and backend technologies, ensuring I am well-equipped to tackle any challenge that comes my way. Let's connect and explore the possibilities of collaboration in the ever-evolving tech landscape.
+Frontend-Focused Fullstack Engineer | React · React Native · TypeScript · Product-Oriented
 
+I build user-centered products that merge technical excellence with business impact. My focus is on delivering intuitive, high-performance interfaces that scale with global audiences — from B2B SaaS platforms to consumer apps in industries like fintech, crypto, and emerging technologies.
 
-- 👯 I’m looking to collaborate on React/React Native & Solidity Projects
-- 💬 Ask me about React!
-- 📫 How to reach me: diehara@gmail.com and https://www.linkedin.com/in/diego-harari/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...Also i am a musician! I play guitar bass and trumpet!
--->
+WHAT I DO
+I specialize in React, React Native, and TypeScript, bringing expertise in performance, accessibility (WCAG 2.1), and scalable architecture. I work closely with product and design teams to ship features that not only work flawlessly but also align with user needs and business goals.
+
+MY APPROACH
+For me, engineering is a product discipline: code is just one part of creating meaningful experiences. I thrive in cross-functional environments, where technical decisions directly shape user trust, product adoption, and long-term growth. I also explore how AI can enhance products — from smarter interfaces to adaptive user flows — when it enhances usability and adoption.
+
+RECENT FOCUS AREAS
+• Product-driven frontend development with React & Next.js
+• Mobile-first experiences with React Native and OTA deployment
+• High-performance SaaS applications serving global teams
+• Interfaces for fintech and crypto products with trust and clarity by design
+• Full-stack debugging and technical documentation across complex systems
+
+TECH STACK:
+Frontend: React, TypeScript, Next.js, Vue.js, React Native, Zustand
+Backend: Node.js, Go, PostgreSQL, AWS
+Tools: CI/CD (Expo EAS, Fastlane), Analytics (PostHog, Segment)
+Emerging: Blockchain (Solidity, EVM), LangChain, OpenAI API
+
+I’m passionate about continuous learning and innovation, always exploring new frontiers in web development while delivering production-ready solutions that users love.
