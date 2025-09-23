@@ -1,44 +1,45 @@
+
 ### Hi there 👋
 
+I’m a **frontend-focused fullstack engineer** passionate about building user-centered products that combine **technical excellence with business impact**. My work spans web, mobile, and emerging technologies, with a focus on **scalable, high-performance, and accessible experiences**.
 
-Dedicated technology enthusiast with an insatiable curiosity and an unwavering commitment to ongoing growth and development.
+---
 
-Frontend Expertise:
+### 🛠 What I Do
 
-🌐 HTML/CSS/JavaScript (ECMA 6)
-🎨 Sass/Styled Components
-🚀 React/Native
-🔷 TypeScript
-🚀 Next.js
-🔄 Redux
+I specialize in **React, React Native, and TypeScript**, with deep expertise in:
 
-Backend Proficiency:
+* **Frontend:** React, Next.js, Vue.js, React Native, Zustand, Tailwind, Styled Components, Sass
+* **Backend:** Node.js, Go, PostgreSQL, MongoDB, GraphQL, REST APIs
+* **Cloud & DevOps:** AWS, Docker, CI/CD (Expo EAS, Fastlane, GitHub Actions)
+* **Analytics & Observability:** PostHog, Segment
+* **Emerging & AI:** OpenAI API, LangChain, Web3 (Solidity, EVM, smart contracts)
 
-🖥️ Node.js/Express
-🌐 GraphQL
-📦 MongoDB
+I focus on **performance, accessibility (WCAG 2.1), and scalable architecture**, collaborating closely with product and design teams to ship features that **delight users and drive business outcomes**.
 
-Frontend-Focused Fullstack Engineer | React · React Native · TypeScript · Product-Oriented
+---
 
-I build user-centered products that merge technical excellence with business impact. My focus is on delivering intuitive, high-performance interfaces that scale with global audiences — from B2B SaaS platforms to consumer apps in industries like fintech, crypto, and emerging technologies.
+### 🌟 My Approach
 
-WHAT I DO
-I specialize in React, React Native, and TypeScript, bringing expertise in performance, accessibility (WCAG 2.1), and scalable architecture. I work closely with product and design teams to ship features that not only work flawlessly but also align with user needs and business goals.
+I treat engineering as a **product discipline**: code is just one part of creating meaningful experiences. I thrive in **cross-functional teams**, where technical decisions directly shape user trust, product adoption, and long-term growth.
 
-MY APPROACH
-For me, engineering is a product discipline: code is just one part of creating meaningful experiences. I thrive in cross-functional environments, where technical decisions directly shape user trust, product adoption, and long-term growth. I also explore how AI can enhance products — from smarter interfaces to adaptive user flows — when it enhances usability and adoption.
+I also explore **AI-driven interfaces** and **adaptive user flows**, leveraging technologies like OpenAI and LangChain to make products smarter without compromising usability.
 
-RECENT FOCUS AREAS
-• Product-driven frontend development with React & Next.js
-• Mobile-first experiences with React Native and OTA deployment
-• High-performance SaaS applications serving global teams
-• Interfaces for fintech and crypto products with trust and clarity by design
-• Full-stack debugging and technical documentation across complex systems
+---
 
-TECH STACK:
-Frontend: React, TypeScript, Next.js, Vue.js, React Native, Zustand
-Backend: Node.js, Go, PostgreSQL, AWS
-Tools: CI/CD (Expo EAS, Fastlane), Analytics (PostHog, Segment)
-Emerging: Blockchain (Solidity, EVM), LangChain, OpenAI API
+### 🚀 Recent Focus Areas
 
-I’m passionate about continuous learning and innovation, always exploring new frontiers in web development while delivering production-ready solutions that users love.
+* Product-driven frontend with **React & Next.js**
+* Mobile-first experiences with **React Native** and OTA deployment
+* High-performance **SaaS applications** for global audiences
+* Trust-focused fintech & crypto products
+* Full-stack debugging, observability, and **technical documentation**
+* Exploring **AI, blockchain, and decentralized applications**
+
+---
+
+I’m always **learning, experimenting, and innovating**, pushing the boundaries of what’s possible in modern web and mobile development while delivering **production-ready solutions users love**.
+
+---
+
+
