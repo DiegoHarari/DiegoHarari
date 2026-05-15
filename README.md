@@ -1,7 +1,30 @@
 
 ### Hi there 👋
 
-I’m a **frontend-focused fullstack engineer** passionate about building user-centered products that combine **technical excellence with business impact**. My work spans web, mobile, and emerging technologies, with a focus on **scalable, high-performance, and accessible experiences**.
+I’m a Senior Software Engineer specializing in building production-grade web and mobile applications with React, React Native, and TypeScript.
+
+Over the past 9+ years I’ve worked on fintech, AI-driven platforms, and high-scale consumer products — focusing on performance, architecture, and product usability.
+
+Recently my work has focused on AI-native products, integrating LLMs and retrieval systems into real applications used by end users.
+
+Rather than building AI models themselves, I focus on turning AI capabilities into usable products.
+
+That includes designing:
+
+• AI-powered interfaces and workflows
+• RAG-based knowledge applications
+• LLM integrations inside production products
+• conversational UX and intelligent automation
+
+My background in frontend and mobile engineering allows me to bridge the gap between AI capabilities and real product experiences.
+
+Tech I work with frequently:
+
+React · React Native · TypeScript
+LLM APIs · RAG · LangChain · OpenAI
+Node.js · PostgreSQL · AWS
+
+I’m particularly interested in roles where engineering, product thinking, and AI intersect.
 
 ---
 
