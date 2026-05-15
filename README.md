@@ -1,28 +1,30 @@
 
-### Hi there 👋
+### 🚀 About Me
 
 I’m a Senior Software Engineer specializing in building production-grade web and mobile applications with React, React Native, and TypeScript.
 
-Over the past 9+ years I’ve worked on fintech, AI-driven platforms, and high-scale consumer products — focusing on performance, architecture, and product usability.
+Over the past 9+ years, I’ve worked on fintech, AI-driven platforms, and high-scale consumer products — with a strong focus on performance, scalable architecture, and product usability.
 
-Recently my work has focused on AI-native products, integrating LLMs and retrieval systems into real applications used by end users.
+Recently, my work has centered around AI-native products, integrating LLMs and retrieval systems into real-world applications used by end users.
 
-Rather than building AI models themselves, I focus on turning AI capabilities into usable products.
+Rather than building AI models themselves, I focus on transforming AI capabilities into intuitive and valuable product experiences.
 
-That includes designing:
+### 🧠 AI & Product Engineering
 
-• AI-powered interfaces and workflows
-• RAG-based knowledge applications
-• LLM integrations inside production products
-• conversational UX and intelligent automation
+I design and build:
+
+* AI-powered interfaces and workflows
+* RAG-based knowledge applications
+* LLM integrations in production environments
+* Conversational UX and intelligent automation
 
 My background in frontend and mobile engineering allows me to bridge the gap between AI capabilities and real product experiences.
 
-Tech I work with frequently:
+### 🛠 Tech I Work With
 
-React · React Native · TypeScript
-LLM APIs · RAG · LangChain · OpenAI
-Node.js · PostgreSQL · AWS
+* **Frontend & Mobile:** React, React Native, TypeScript, Next.js
+* **AI & Emerging Tech:** OpenAI API, LLM APIs, RAG, LangChain
+* **Backend & Infrastructure:** Node.js, PostgreSQL, AWS
 
 I’m particularly interested in roles where engineering, product thinking, and AI intersect.
 
